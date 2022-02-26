@@ -2,7 +2,7 @@
 
 big()
 {
-	int A, B, C;
+	int A, B, C;//variables
 
 	printf("Enter the numbers A, B and C: ");
 	scanf("%d %d %d", &A, &B, &C);
